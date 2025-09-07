@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: convertibles
+Version: 0.1.0
+Summary: Pacote com classes convertibles (int, float, str)
+Author: Miguel
+License-Expression: MIT

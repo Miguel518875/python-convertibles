@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "convertibles"
+version = "0.1.0"
+description = "Pacote com classes convertibles (int, float, str, bool)"
+authors = [{name = "Miguel"}]
+license = "MIT"
+
+[tool.setuptools.packages.find]
+where = ["src"]
